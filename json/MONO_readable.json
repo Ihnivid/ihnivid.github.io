@@ -1,0 +1,156 @@
+{
+    "disambiguation": "post\u2010rock band from Japan",
+    "country": "JP",
+    "id": "ffe02aed-ef7e-4736-a186-c2f1dd55ce8d",
+    "name": "MONO",
+    "count": 24,
+    "release-groups": [
+        {
+            "id": "f1486863-4fb7-361c-bc44-4778c64d59b4",
+            "title": "One Step More and You Die",
+            "first-release-date": "2002-10-02",
+            "primary-type": "Album"
+        },
+        {
+            "id": "15a4613b-512d-304f-9779-7f160b33eff9",
+            "title": "Under the Pipal Tree",
+            "first-release-date": "2001-01-11",
+            "primary-type": "Album"
+        },
+        {
+            "id": "b64d1b6d-a1e9-36ed-b7b0-d03207715525",
+            "title": "You Are There",
+            "first-release-date": "2006-03-15",
+            "primary-type": "Album"
+        },
+        {
+            "id": "8cfeb197-b7ce-3926-82ed-d393fa69f28c",
+            "title": "Travels in Constants, Volume 22: The Phoenix Tree",
+            "first-release-date": "2007-04-18",
+            "primary-type": "EP"
+        },
+        {
+            "id": "b0c09ca6-4a5f-4f09-9c47-9220507d2323",
+            "title": "For My Parents",
+            "first-release-date": "2012-09-04",
+            "primary-type": "Album"
+        },
+        {
+            "id": "760a9e42-bbfb-4c7d-9860-a17af7426db1",
+            "title": "Nowhere Now Here",
+            "first-release-date": "2019-01-25",
+            "primary-type": "Album"
+        },
+        {
+            "id": "2d1cfe84-55a3-4e5a-a978-cad2a584b85a",
+            "title": "Rays of Darkness",
+            "first-release-date": "2014-10-14",
+            "primary-type": "Album"
+        },
+        {
+            "id": "e515481f-0c29-4fea-bc86-819aa9e40536",
+            "title": "Session, 02",
+            "first-release-date": "2002",
+            "primary-type": "EP"
+        },
+        {
+            "id": "9e78d4b8-c05c-4e9f-a35f-4160c7af1b19",
+            "title": "Heaven, Vol. 2",
+            "first-release-date": "2023-12-25",
+            "primary-type": "EP"
+        },
+        {
+            "id": "cfa32eaa-ed3c-3dc3-bda9-cefa23e9feaf",
+            "title": "Palmless Prayer / Mass Murder Refrain",
+            "first-release-date": "2005-12-14",
+            "primary-type": "Album"
+        },
+        {
+            "id": "67b880fa-c708-3752-ab34-82536054fa83",
+            "title": "Memorie dal futuro",
+            "first-release-date": "2006-11-01",
+            "primary-type": "EP"
+        },
+        {
+            "id": "d518afa3-5e03-3981-b41d-4304cdc5ab47",
+            "title": "Hey,You. EP",
+            "first-release-date": "2000-09-09",
+            "primary-type": "EP"
+        },
+        {
+            "id": "d6ff3e5b-79a8-380c-ae29-bcbe35d74cd2",
+            "title": "Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined",
+            "first-release-date": "2004-04-14",
+            "primary-type": "Album"
+        },
+        {
+            "id": "745425bd-f225-37d1-9cde-e074dcbbdaa5",
+            "title": "Pelican / Mono",
+            "first-release-date": "2005-10-11",
+            "primary-type": "EP"
+        },
+        {
+            "id": "ca216c09-4d07-4863-94f0-50eed130433e",
+            "title": "Exit in Darkness",
+            "first-release-date": "2019-12-13",
+            "primary-type": "EP"
+        },
+        {
+            "id": "2415e537-6840-4cce-a217-4aad2514bb10",
+            "title": "The Last Dawn",
+            "first-release-date": "2014-10-24",
+            "primary-type": "Album"
+        },
+        {
+            "id": "5b31b8fc-73b6-43dc-8888-d122435d7584",
+            "title": "Pilgrimage of the Soul",
+            "first-release-date": "2021-09-17",
+            "primary-type": "Album"
+        },
+        {
+            "id": "9544e40b-f49f-44f2-bf60-1ff9f4049705",
+            "title": "Heaven, Vol. 1",
+            "first-release-date": "2022-12-25",
+            "primary-type": "EP"
+        },
+        {
+            "id": "4dc8f949-7eaf-4ed6-9d3d-0763ce2fe454",
+            "title": "Transcendental",
+            "first-release-date": "2015-10-23",
+            "primary-type": "EP"
+        },
+        {
+            "id": "c7f0aba9-7f13-4425-9324-5155e70930b3",
+            "title": "Requiem for Hell",
+            "first-release-date": "2016-10-14",
+            "primary-type": "Album"
+        },
+        {
+            "id": "a2be4fc4-70a2-35ca-8738-d31226165ea1",
+            "title": "Hymn to the Immortal Wind",
+            "first-release-date": "2009-03-04",
+            "primary-type": "Album"
+        },
+        {
+            "id": "94d397a6-5284-4311-a6e8-77a0aa43f303",
+            "title": "My Story, the Buraku Story",
+            "first-release-date": "2022-05-22",
+            "primary-type": "Album",
+            "secondary-types": [
+                "Soundtrack"
+            ]
+        },
+        {
+            "id": "1778ecb6-8079-41b3-b1d3-461d83553465",
+            "title": "Scarlet Holliday",
+            "first-release-date": "2022-03-04",
+            "primary-type": "EP"
+        },
+        {
+            "id": "d21f01f0-2b14-46f0-9177-84f77f35e618",
+            "title": "Oath",
+            "first-release-date": "2024-06-14",
+            "primary-type": "Album"
+        }
+    ]
+}
